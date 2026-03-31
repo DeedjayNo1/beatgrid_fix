@@ -79,13 +79,15 @@ Configurable in the INI under `phase_tolerance`.
 4. Place `beatgrid_fix.py` and `beatgrid_fix.ini` in the same folder
 5. Open `beatgrid_fix.ini` and adjust the paths and save
 6. **Close VirtualDJ** (so all AudioSigs are written to the XML) <<< the tool will remind you to do this, too.
-7a. For Windows, make a right click in the folder where the tool files are and choose `Open in Terminal`
+7.
+a.	For Windows, make a right click in the folder where the tool files are and choose `Open in Terminal`
 	In the Terminal Window type >> `python beatgrid_fix.py` <<  ENTER
-7b. For Mac: open Terminal, navigate to the folder with `cd /path/to/folder` 
+
+b.	For Mac: open Terminal, navigate to the folder with `cd /path/to/folder` 
 	then type `python3 beatgrid_fix.py`  <<  ENTER
-8. Select mode (1 = FIX, 2 = CHECK)
-9. When In test mode: check the result in the M3U output  <<< Test Mode can be set inside the .ini File
-10. Set `test_mode = no` and run again for real changes
+9. Select mode (1 = FIX, 2 = CHECK)
+10. When In test mode: check the result in the M3U output  <<< Test Mode can be set inside the .ini File
+11. Set `test_mode = no` and run again for real changes
 
 ---
 
