@@ -73,19 +73,18 @@ Configurable in the INI under `phase_tolerance`.
 
 ## Quick Start
 
-1. Download python installer from above known website
-2  Install python with the installer for your System
-3. Check the checkbox "Add python.exe to PATH" during installation
+1. Download Python from https://www.python.org/downloads/
+2. Install Python with the installer for your system
+3. Check the checkbox **"Add python.exe to PATH"** during installation
 4. Place `beatgrid_fix.py` and `beatgrid_fix.ini` in the same folder
-5. Open `beatgrid_fix.ini` and adjust the paths and save
-6. **Close VirtualDJ** (so all AudioSigs are written to the XML) <<< the tool will remind you to do this, too.
-7.	a.	For Windows, make a right click in the folder where the tool files are and choose `Open in Terminal`
-		In the Terminal Window type >> `python beatgrid_fix.py` <<  ENTER
-	b.	For Mac: open Terminal, navigate to the folder with `cd /path/to/folder` 
-		then type `python3 beatgrid_fix.py`  <<  ENTER
-9. Select mode (1 = FIX, 2 = CHECK)
-10. When In test mode: check the result in the M3U output  <<< Test Mode can be set inside the .ini File
-11. Set `test_mode = no` and run again for real changes
+5. Open `beatgrid_fix.ini`, adjust the paths and save
+6. **Close VirtualDJ** (so all AudioSigs are written to the XML) — the tool will remind you too
+7. Open a terminal in the tool folder:
+   - **Windows:** right-click in the folder → choose `Open in Terminal`, then type `python beatgrid_fix.py` and press ENTER
+   - **Mac:** open Terminal, navigate with `cd /path/to/folder`, then type `python3 beatgrid_fix.py` and press ENTER
+8. Select mode (1 = FIX, 2 = CHECK)
+9. In test mode: check the result in the M3U output — test mode is set inside the `.ini` file
+10. Set `test_mode = no` and run again for real changes
 
 ---
 
