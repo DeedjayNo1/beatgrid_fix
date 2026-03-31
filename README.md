@@ -5,6 +5,8 @@ This is an unofficial community tool, not affiliated with VirtualDJ or SoundSwit
 Made for my personal use — shared with the community
 Hopefully useful until the great People of the SoundSwitch Team will support the new Beatgrid out of the box
 
+You will use this on your own risk.
+
 **Version:** 0.3.0  
 **Requires:** Python 3.10+
 
