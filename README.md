@@ -1,6 +1,9 @@
-# beatgrid_fix.py — VirtualDJ Beatgrid Fix Tool for SoundSwitch by DJ AiOli
-Tool to Make VirtualDJ 2026 Part 2 with Fluid Beatgrids compatible with SoundSwitch v2.10.2
+# beatgrid_fix.py
+
+Tool to Make VirtualDJ 2026 Part 2 (b9246) , with new Fluid Beatgrids, compatible with SoundSwitch v2.10.2
 This is an unofficial community tool, not affiliated with VirtualDJ or SoundSwitch
+Made for my personal use — shared with the community
+Hopefully useful until the great People of the SoundSwitch Team will support the new Beatgrid out of the box
 
 **Version:** 0.3.0  
 **Requires:** Python 3.10+
